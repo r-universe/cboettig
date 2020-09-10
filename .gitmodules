@@ -1,3 +1,20 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "contentid"]
+	path = contentid
+	url = https://github.com/cboettig/contentid
+	shallow = true
+[submodule "EcoNetGen"]
+	path = EcoNetGen
+	url = https://github.com/cboettig/econetgen
+	shallow = true
+[submodule "knitcitations"]
+	path = knitcitations
+	url = https://github.com/cboettig/knitcitations
+	shallow = true
+[submodule "pmc"]
+	path = pmc
+	url = https://github.com/cboettig/pmc
+	shallow = true
