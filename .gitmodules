@@ -2,19 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
-	branch = HEAD
 [submodule "contentid"]
 	path = contentid
 	url = https://github.com/cboettig/contentid
 	shallow = true
-	branch = HEAD
 [submodule "EcoNetGen"]
 	path = EcoNetGen
 	url = https://github.com/cboettig/econetgen
 	shallow = true
-	branch = HEAD
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cboettig/pmc
 	shallow = true
-	branch = HEAD
