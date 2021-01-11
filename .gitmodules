@@ -11,6 +11,10 @@
 	path = EcoNetGen
 	url = https://github.com/cboettig/econetgen
 	shallow = true
+[submodule "knitcitations"]
+	path = knitcitations
+	url = https://github.com/cboettig/knitcitations
+	shallow = true
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cboettig/pmc
