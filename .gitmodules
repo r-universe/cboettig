@@ -19,3 +19,7 @@
 	path = pmc
 	url = https://github.com/cboettig/pmc
 	shallow = true
+[submodule "taxalight"]
+	path = taxalight
+	url = https://github.com/cboettig/taxalight
+	shallow = true
