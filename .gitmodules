@@ -8,28 +8,23 @@
 	url = https://github.com/cboettig/contentid
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "EcoNetGen"]
 	path = EcoNetGen
 	url = https://github.com/cboettig/econetgen
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "knitcitations"]
 	path = knitcitations
 	url = https://github.com/cboettig/knitcitations
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cboettig/pmc
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cboettig/taxalight
 	shallow = true
 	registered = true
-	oncran = true

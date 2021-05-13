@@ -1,0 +1,22 @@
+[
+  {
+    "package": "contentid",
+    "oncran": true
+  },
+  {
+    "package": "EcoNetGen",
+    "oncran": true
+  },
+  {
+    "package": "knitcitations",
+    "oncran": true
+  },
+  {
+    "package": "pmc",
+    "oncran": true
+  },
+  {
+    "package": "taxalight",
+    "oncran": true
+  }
+]
