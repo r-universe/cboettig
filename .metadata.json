@@ -1,5 +1,9 @@
 [
   {
+    "package": "codemeta",
+    "oncran": true
+  },
+  {
     "package": "contentid",
     "oncran": true
   },

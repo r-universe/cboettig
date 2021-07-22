@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "codemeta"]
+	path = codemeta
+	url = https://github.com/cboettig/codemeta
+	shallow = true
+	registered = true
 [submodule "contentid"]
 	path = contentid
 	url = https://github.com/cboettig/contentid
