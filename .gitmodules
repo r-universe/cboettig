@@ -3,21 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "codemeta"]
-	path = codemeta
-	url = https://github.com/cboettig/codemeta
-	shallow = true
-	registered = true
-[submodule "contentid"]
-	path = contentid
-	url = https://github.com/cboettig/contentid
-	shallow = true
-	registered = true
-[submodule "EcoNetGen"]
-	path = EcoNetGen
-	url = https://github.com/cboettig/econetgen
-	shallow = true
-	registered = true
 [submodule "knitcitations"]
 	path = knitcitations
 	url = https://github.com/cboettig/knitcitations
@@ -28,8 +13,23 @@
 	url = https://github.com/cboettig/pmc
 	shallow = true
 	registered = true
+[submodule "contentid"]
+	path = contentid
+	url = https://github.com/cboettig/contentid
+	shallow = true
+	registered = true
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cboettig/taxalight
+	shallow = true
+	registered = true
+[submodule "EcoNetGen"]
+	path = EcoNetGen
+	url = https://github.com/cboettig/econetgen
+	shallow = true
+	registered = true
+[submodule "codemeta"]
+	path = codemeta
+	url = https://github.com/cboettig/codemeta
 	shallow = true
 	registered = true
