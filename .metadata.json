@@ -1,5 +1,17 @@
 [
   {
+    "package": "codemeta",
+    "oncran": true
+  },
+  {
+    "package": "contentid",
+    "oncran": true
+  },
+  {
+    "package": "EcoNetGen",
+    "oncran": true
+  },
+  {
     "package": "knitcitations",
     "oncran": true
   },
@@ -8,19 +20,7 @@
     "oncran": true
   },
   {
-    "package": "contentid",
-    "oncran": true
-  },
-  {
     "package": "taxalight",
-    "oncran": true
-  },
-  {
-    "package": "EcoNetGen",
-    "oncran": true
-  },
-  {
-    "package": "codemeta",
     "oncran": true
   }
 ]
