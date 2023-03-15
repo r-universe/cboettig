@@ -23,6 +23,11 @@
 	url = https://github.com/cboettig/knitcitations
 	shallow = true
 	registered = true
+[submodule "neonstore"]
+	path = neonstore
+	url = https://github.com/cboettig/neonstore
+	shallow = true
+	registered = true
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cboettig/pmc

@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "neonstore",
+    "oncran": true
+  },
+  {
     "package": "pmc",
     "oncran": true
   },
