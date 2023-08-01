@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "EcoNetGen"]
+	path = EcoNetGen
+	url = https://github.com/cboettig/econetgen
 [submodule "codemeta"]
 	path = codemeta
 	url = https://github.com/cboettig/codemeta
 [submodule "contentid"]
 	path = contentid
 	url = https://github.com/cboettig/contentid
-[submodule "EcoNetGen"]
-	path = EcoNetGen
-	url = https://github.com/cboettig/econetgen
 [submodule "knitcitations"]
 	path = knitcitations
 	url = https://github.com/cboettig/knitcitations
