@@ -1,8 +1,0 @@
-[
-  {
-    "package": "minioclient",
-    "url": "https://github.com/cboettig/minioclient",
-    "via": ["duckdbfs"],
-    "from": "duckdbfs"
-  }
-]
