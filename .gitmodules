@@ -14,9 +14,6 @@
 [submodule "duckdbfs"]
 	path = duckdbfs
 	url = https://github.com/cboettig/duckdbfs
-[submodule "earthdatalogin"]
-	path = earthdatalogin
-	url = https://github.com/cran/earthdatalogin
 [submodule "knitcitations"]
 	path = knitcitations
 	url = https://github.com/cboettig/knitcitations
