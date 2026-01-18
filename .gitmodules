@@ -2,6 +2,33 @@
 	path = .registry
 	url = https://github.com/cboettig/cboettig.r-universe.dev
 	branch = HEAD
+[submodule "EcoNetGen"]
+	path = EcoNetGen
+	url = https://github.com/cboettig/EcoNetGen
+[submodule "codemeta"]
+	path = codemeta
+	url = https://github.com/cboettig/codemeta
+[submodule "contentid"]
+	path = contentid
+	url = https://github.com/cboettig/contentid
+[submodule "duckdbfs"]
+	path = duckdbfs
+	url = https://github.com/cboettig/duckdbfs
+[submodule "knitcitations"]
+	path = knitcitations
+	url = https://github.com/cboettig/knitcitations
+[submodule "minioclient"]
+	path = minioclient
+	url = https://github.com/cboettig/minioclient
+[submodule "neonstore"]
+	path = neonstore
+	url = https://github.com/cboettig/neonstore
+[submodule "pmc"]
+	path = pmc
+	url = https://github.com/cboettig/pmc
 [submodule "roxigraph"]
 	path = roxigraph
 	url = https://github.com/cboettig/roxigraph
+[submodule "taxalight"]
+	path = taxalight
+	url = https://github.com/cboettig/taxalight
